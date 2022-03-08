@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Burak</h1>
-<h2 align="center"> and I'm a Energy System Engineer </h2>
+<h2 align="center"> and I'm an Energy Engineer </h2>
 
 ### 🛠Tech Stack
 
