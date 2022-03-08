@@ -7,7 +7,6 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000)
 
 ### 🤝🏻 Connect with me
 <a href="mailto:burakaral37@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello">
